@@ -1,4 +1,5 @@
 ## Hi there 👋
+<pre>
 Евгений Ризов
 Senior Backend Engineer / AI Engineer / GPT-разработчик
 📞 +7-980-088-29-47 | ✉ aldanri@yandex.com | 🌍 github.com/rizove | 💼 linkedin.com/in/rizove
@@ -15,7 +16,7 @@ Python, Java, FastAPI, Django, React, LangChain, OpenAI GPT, RAG, Redis Vector S
 Инженер (промышленная электроника, незаверш.), СФ МЭИ, 1989–1993
 🎯 Целевые позиции
 Java/SQL/Python Developer, AI/ML Backend Engineer, GPT/LLM Developer, MLOps Engineer, AI Solutions Architect.
-
+</pre>
 
 <!--
 **erizov/erizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
